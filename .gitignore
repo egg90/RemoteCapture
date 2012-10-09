@@ -1,0 +1,12 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in
+[Oo]bj
+[Dd]ebug
+[Rr]elease
+ipch
+*.suo
+*.user
+*.sdf
+*.opensdf
+StyleCop.Cache
+AppResLib.aps
